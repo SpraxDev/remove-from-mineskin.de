@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://remove-from-mineskin.de/sitemap.xml
